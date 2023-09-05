@@ -1,6 +1,6 @@
-nome = "Priscila Portela"
-n1 = int(input("20"))
-n2 = int(input("2"))
-n3 = int(input("10"))
-n4 = int(input("8"))
-nota
+print ("DESAFIO DO CAÍQUE")
+
+n1 = 145
+n2 = 234
+soma = n1 + n2
+print ("A soma é:", soma)
