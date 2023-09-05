@@ -1,6 +1,2 @@
-print ("DESAFIO DO CAÍQUE")
+print (5 + 3 * 2)
 
-n1 = 145
-n2 = 234
-soma = n1 + n2
-print ("A soma é:", soma)
